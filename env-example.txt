@@ -1,0 +1,6 @@
+SECRET_KEY= <provide-your-key>
+NAME= <provide-your-database-name>
+USER= <provide-your-database-user>
+PASSWORD= <provide-your-db-password>
+HOST= <provide-database-host>
+PORT= <provide-database-port>
